@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module '/Users/hyodo_soichiro/repos/palindrome/main.js' from '/Users/hyodo_soichiro/repos/palindrome'");
